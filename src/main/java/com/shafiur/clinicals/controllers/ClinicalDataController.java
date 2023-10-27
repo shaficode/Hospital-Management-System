@@ -1,4 +1,4 @@
-package com.shreyansh.clinicals.controllers;
+package com.shafiur.clinicals.controllers;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -11,12 +11,12 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.shreyansh.clinicals.model.ClinicalData;
-import com.shreyansh.clinicals.model.Patient;
-import com.shreyansh.clinicals.repos.ClinicalDataRepository;
-import com.shreyansh.clinicals.repos.PatientRepository;
-import com.shreyansh.clinicals.util.BMICalculator;
-import com.shreyansh.clinicals.dto.ClinicalDataRequest;
+import com.shafiur.clinicals.model.ClinicalData;
+import com.shafiur.clinicals.model.Patient;
+import com.shafiur.clinicals.repos.ClinicalDataRepository;
+import com.shafiur.clinicals.repos.PatientRepository;
+import com.shafiur.clinicals.util.BMICalculator;
+import com.shafiur.clinicals.dto.ClinicalDataRequest;
 
 @RestController
 @RequestMapping("/api")

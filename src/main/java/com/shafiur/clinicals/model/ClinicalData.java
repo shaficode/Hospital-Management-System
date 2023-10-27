@@ -1,4 +1,4 @@
-package com.shreyansh.clinicals.model;
+package com.shafiur.clinicals.model;
 
 import java.sql.Timestamp;
 

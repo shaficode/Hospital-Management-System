@@ -1,4 +1,4 @@
-package com.shreyansh.clinicals.dto;
+package com.shafiur.clinicals.dto;
 
 public class ClinicalDataRequest {
 	private String componentName;

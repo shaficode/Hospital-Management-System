@@ -1,8 +1,8 @@
-package com.shreyansh.clinicals.util;
+package com.shafiur.clinicals.util;
 
 import java.util.List;
 
-import com.shreyansh.clinicals.model.ClinicalData;
+import com.shafiur.clinicals.model.ClinicalData;
 
 public class BMICalculator {
 
